@@ -1,7 +1,7 @@
 try {
   console.log(
-    `%c init Roads Technology components `,
-    "background:blue;color:gold"
+    `%c init Roads Technology components <letter-hunt> `,
+    "background:firebrick;color:gold"
   );
   /********************************************************************************/
   customElements.define(
